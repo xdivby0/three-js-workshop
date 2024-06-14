@@ -10,7 +10,7 @@ const Scene = () => {
 
     return (
         <>
-            <Box>
+            <Box args={[5,5,5]}>
                 <meshStandardMaterial wireframe={true}/>
             </Box>
         </>
