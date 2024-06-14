@@ -6,5 +6,3 @@
 - install the GLSL IntelliJ plugin:
 
 ![glsl plugin screenshot](readme-resources/glsl-plugin.png)
-
--
